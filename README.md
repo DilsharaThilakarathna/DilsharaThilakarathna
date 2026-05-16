@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Dilshara Thilakarathna</h1>
-<h3 align="center">Undergraduate, BSc (Hons) in Information Technology specializing in Software Engineering </h3>
-<h3 align="center">Areas I am Interested </h3>
+
+<h3 align="center">
+Undergraduate, BSc (Hons) in Information Technology specializing in Software Engineering
+</h3>
+
+<h3 align="center">Areas I am Interested</h3>
+
 <p align="center">
 🌐 Web Development • 📱 Mobile Application Development • 🧩 Software Architecture & System Design • ☁️ Cloud Technologies • 🤖 AI & Data Science
 </p>
+
 ---
 
 🎓 **BSc (Hons) in IT – Software Engineering**  
@@ -90,15 +96,16 @@
 ---
 
 ## 📌 Other Projects
-- **Online Vehicle Spare Parts Management System** - GitHub : https://github.com/HirushaDilshanOfficial/Online-Vehicle-SpareParts-Management-System-SLIIT
-- **HabitHarmony – Personal Wellness Mobile App (Kotlin)** - GitHub : https://github.com/DilsharaThilakarathna/HabitHarmony
+- **Online Vehicle Spare Parts Management System** – GitHub: https://github.com/HirushaDilshanOfficial/Online-Vehicle-SpareParts-Management-System-SLIIT  
+- **HabitHarmony – Personal Wellness Mobile App (Kotlin)** – GitHub: https://github.com/DilsharaThilakarathna/HabitHarmony  
 
 ---
 
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DilsharaThilakarathna&show_icons=true&theme=dark)
-![Streak](https://streak-stats.demolab.com/?user=DilsharaThilakarathna&theme=dark)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=DilsharaThilakarathna&theme=dark)
 
 ---
 
