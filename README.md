@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dilshara Thilakarathna</h1>
-<h3 align="center">Software Engineering Undergraduate | Full-Stack & AI-Driven Systems</h3>
-
+<h3 align="center">Undergraduate, BSc (Hons) in Information Technology specializing in Software Engineering </h3>
+<h3 align="center">Areas I am Interested </h3>
+<p align="center">
+🌐 Web Development • 📱 Mobile Application Development • 🧩 Software Architecture & System Design • ☁️ Cloud Technologies • 🤖 AI & Data Science
+</p>
 ---
 
 🎓 **BSc (Hons) in IT – Software Engineering**  
