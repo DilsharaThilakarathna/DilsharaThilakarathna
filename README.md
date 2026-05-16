@@ -206,13 +206,6 @@ Undergraduate, BSc (Hons) in Information Technology specializing in Software Eng
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DilsharaThilakarathna&show_icons=true&theme=dark)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=DilsharaThilakarathna&theme=dark)
-
----
 
 ## 📫 Connect With Me
 
